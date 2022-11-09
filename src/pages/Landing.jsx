@@ -60,7 +60,7 @@ const Landing = () => {
               />
               <p className={styles.info}>
                 <nice /> 5mb.
-                Desteklenen files: JPG, JPEG, PNG
+                Supported files: JPG, JPEG, PNG
               </p>
               <button type="submit" className={styles.formButton}>
                 <HiPaperClip />
