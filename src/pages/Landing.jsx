@@ -59,8 +59,8 @@ const Landing = () => {
                 }}
               />
               <p className={styles.info}>
-                <HiExclamation /> Maksimum dosya boyutu 5 MB olmalıdır.
-                Desteklenen uzantılar: JPG, JPEG, PNG
+                <nice /> 5mb.
+                Desteklenen files: JPG, JPEG, PNG
               </p>
               <button type="submit" className={styles.formButton}>
                 <HiPaperClip />
