@@ -64,7 +64,7 @@ const Landing = () => {
               </p>
               <button type="submit" className={styles.formButton}>
                 <HiPaperClip />
-                {"  "}Arkaplanı Sil
+                {"  "}Remove background
               </button>
             </form>
           </div>
